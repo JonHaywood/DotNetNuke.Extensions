@@ -1,0 +1,7 @@
+E:\Projects\DotNetNuke.Extensions\DotNetNuke.Extensions\bin\Debug\DotNetNuke.Extensions.dll
+E:\Projects\DotNetNuke.Extensions\DotNetNuke.Extensions\bin\Debug\DotNetNuke.Extensions.pdb
+E:\Projects\DotNetNuke.Extensions\DotNetNuke.Extensions\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\DotNetNuke.Extensions\DotNetNuke.Extensions\obj\Debug\DotNetNuke.Extensions.dll
+E:\Projects\DotNetNuke.Extensions\DotNetNuke.Extensions\obj\Debug\DotNetNuke.Extensions.pdb
+E:\Projects\DotNetNuke.Extensions\DotNetNuke.Extensions\bin\Debug\DotNetNuke.dll
+E:\Projects\DotNetNuke.Extensions\DotNetNuke.Extensions\bin\Debug\Microsoft.Practices.ServiceLocation.dll
